@@ -1,0 +1,3 @@
+Si transmites el juego... 
+
+Establece opciones de transmision y de juego especificas de Twitch.

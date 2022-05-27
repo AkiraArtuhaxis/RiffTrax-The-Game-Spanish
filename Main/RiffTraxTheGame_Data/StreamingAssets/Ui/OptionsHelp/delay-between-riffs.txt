@@ -1,0 +1,1 @@
+Toma un tiempo para reirte y agrega un leve retraso entre la reproduccion del riff del jugador.

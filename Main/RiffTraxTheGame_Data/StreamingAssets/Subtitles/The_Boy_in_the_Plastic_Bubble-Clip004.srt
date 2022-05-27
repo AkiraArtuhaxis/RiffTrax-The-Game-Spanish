@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:00,896
+Hombre: Espera un momento.
+
+2
+00:00:02,606 --> 00:00:04,606
+Te preguntaré algo.
+
+3
+00:00:06,318 --> 00:00:07,653
+¿Por qué haces esto?
+
+4
+00:00:07,980 --> 00:00:15,800
+[Inserta un riff aquí]
+

@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,660
+Papá: Cariño, ¿quieres encender el interruptor?
+
+2
+00:00:01,660 --> 00:00:02,380
+Mamá: Bien, ya lo hago.
+
+3
+00:00:05,060 --> 00:00:07,060
+Papá: Feliz 4 de julio, hijo.
+
+4
+00:00:07,150 --> 00:00:13,640
+[Inserta un riff aquí]
+

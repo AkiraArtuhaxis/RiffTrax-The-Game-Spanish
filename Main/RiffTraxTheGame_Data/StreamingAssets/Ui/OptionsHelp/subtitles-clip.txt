@@ -1,0 +1,1 @@
+Mostrar subtitulos para los dialogos de los videos.

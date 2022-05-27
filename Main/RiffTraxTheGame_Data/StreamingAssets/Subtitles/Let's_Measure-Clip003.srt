@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,481
+Hombre: Escuché que tienes problemas para entender las medidas.
+
+2
+00:00:02,940 --> 00:00:03,983
+¿Puedo ayudarte?
+
+3
+00:00:04,420 --> 00:00:09,580
+[Inserta un riff aquí]
+

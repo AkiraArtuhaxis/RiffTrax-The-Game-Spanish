@@ -1,0 +1,16 @@
+1
+00:00:00,479 --> 00:00:01,814
+Astronauta: Espera un momento.
+
+2
+00:00:01,856 --> 00:00:04,442
+¿Sería prudente que alguien se quedara a vigilar la nave?
+
+3
+00:00:04,442 --> 00:00:06,485
+Capitán: No creo que nadie se la lleve.
+
+4
+00:00:06,660 --> 00:00:15,340
+[Inserta un riff aquí]
+

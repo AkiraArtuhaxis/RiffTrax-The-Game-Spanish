@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,314
+Niña: www.netscape.com
+
+2
+00:00:02,398 --> 00:00:06,235
+Niño: Bueno, así que dinos: ¿qué significa "descargar"?
+
+3
+00:00:06,400 --> 00:00:12,960
+[Inserta un riff aquí]
+

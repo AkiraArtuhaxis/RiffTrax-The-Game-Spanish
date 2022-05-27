@@ -1,0 +1,1 @@
+Echar automaticamente a cualquier miembro del publico que no vote durante una ronda.

@@ -1,0 +1,12 @@
+1
+00:00:00,813 --> 00:00:02,440
+Mujer: Son las 9 en punto.
+
+2
+00:00:02,732 --> 00:00:04,191
+¿Deberías terminar la noche?
+
+3
+00:00:04,440 --> 00:00:10,340
+[Inserta un riff aquí]
+

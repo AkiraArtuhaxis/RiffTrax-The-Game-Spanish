@@ -1,0 +1,16 @@
+1
+00:00:01,354 --> 00:00:02,979
+Policía 1: La ambulancia está en camino.
+
+2
+00:00:03,021 --> 00:00:04,646
+Policía 2: Este tipo no necesita una ambulancia.
+
+3
+00:00:04,646 --> 00:00:06,854
+Solo hará un viaje rápido a la morgue.
+
+4
+00:00:07,000 --> 00:00:13,700
+[Inserta un riff aquí]
+

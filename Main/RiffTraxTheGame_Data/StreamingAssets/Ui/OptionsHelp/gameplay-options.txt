@@ -1,0 +1,1 @@
+Establece opciones de juego avanzadas como repetir clips y filtrar el lenguaje soez.

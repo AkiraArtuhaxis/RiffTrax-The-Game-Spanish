@@ -1,0 +1,1 @@
+Permite que todo tu chat de Twitch vote por sus riffs favoritos.

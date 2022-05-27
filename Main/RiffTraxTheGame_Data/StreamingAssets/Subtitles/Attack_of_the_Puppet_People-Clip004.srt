@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,564
+Mujer: Has estado raro últimamente.
+
+2
+00:00:01,560 --> 00:00:03,180
+Dime, ¿qué pasa?
+
+3
+00:00:03,440 --> 00:00:07,940
+[Inserta un riff aquí]
+

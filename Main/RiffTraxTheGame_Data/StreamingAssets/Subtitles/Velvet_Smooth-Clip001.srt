@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,146
+Hombre: Las cosas han estado bien durante mucho tiempo.
+
+2
+00:00:03,180 --> 00:00:08,940
+[Inserta un riff aquí]
+

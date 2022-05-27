@@ -1,0 +1,16 @@
+1
+00:00:01,981 --> 00:00:03,691
+Hombre 1: No está bien.
+
+2
+00:00:04,025 --> 00:00:05,526
+Hombre 2: Bueno, eso te lo podría haber dicho yo.
+
+3
+00:00:05,526 --> 00:00:07,484
+Si funcionó, es solo temporal.
+
+4
+00:00:07,800 --> 00:00:14,260
+[Inserta un riff aquí]
+

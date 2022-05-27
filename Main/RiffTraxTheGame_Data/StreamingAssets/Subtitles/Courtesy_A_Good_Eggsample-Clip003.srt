@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,752
+Huevo 1: Oigan, casi es la hora de la clase.
+
+2
+00:00:01,785 --> 00:00:02,786
+Huevo 2: Oye, Clara,
+
+3
+00:00:02,919 --> 00:00:04,654
+¿Qué trajiste para la exposición?
+
+4
+00:00:04,720 --> 00:00:14,480
+[Inserta un riff aquí]
+

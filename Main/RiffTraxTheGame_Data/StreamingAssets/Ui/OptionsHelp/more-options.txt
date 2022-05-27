@@ -1,0 +1,5 @@
+Establece opciones de juego avanzadas como repetir clips y filtrar el lenguaje soez.
+
+Si transmites el juego... 
+
+Establece opciones de transmision y de juego especificas de Twitch.

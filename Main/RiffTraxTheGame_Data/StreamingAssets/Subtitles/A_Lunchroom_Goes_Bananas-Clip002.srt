@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:01,771
+Hombre: Por mí, puede permanecer cerrado.
+
+2
+00:00:02,062 --> 00:00:02,771
+Ñiño 1: ¿Qué pasa?
+
+3
+00:00:02,810 --> 00:00:03,800
+Niño 2: Te quieren.
+
+4
+00:00:03,800 --> 00:00:04,729
+Niño 2: ¿Quién me quiere?
+
+5
+00:00:04,720 --> 00:00:05,900
+Niño 1: La comida te quiere.
+
+6
+00:00:05,960 --> 00:00:11,120
+[Inserta un riff aquí]
+

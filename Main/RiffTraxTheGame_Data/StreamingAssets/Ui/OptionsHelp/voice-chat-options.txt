@@ -1,0 +1,1 @@
+Controla el chat de voz cuando juegas a distancia.

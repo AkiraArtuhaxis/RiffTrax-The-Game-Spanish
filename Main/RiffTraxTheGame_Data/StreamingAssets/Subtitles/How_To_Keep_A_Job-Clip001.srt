@@ -1,0 +1,12 @@
+1
+00:00:01,355 --> 00:00:02,565
+Jefe: Esto se ve bien.
+
+2
+00:00:03,107 --> 00:00:05,568
+Dígame, ¿por qué le interesa este trabajo?
+
+3
+00:00:05,690 --> 00:00:12,600
+[Inserta un riff aquí]
+

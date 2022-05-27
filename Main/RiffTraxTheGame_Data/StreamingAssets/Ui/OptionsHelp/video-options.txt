@@ -1,0 +1,1 @@
+Configura las opciones de visualizacion del juego y de los subtitulos.

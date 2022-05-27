@@ -1,0 +1,20 @@
+1
+00:00:00,812 --> 00:00:01,521
+(Suena el teléfono)
+
+2
+00:00:02,187 --> 00:00:02,771
+Mujer 1: ¿Hola?
+
+3
+00:00:02,937 --> 00:00:04,771
+Mujer 2: Te necesito. Ahora mismo.
+
+4
+00:00:04,812 --> 00:00:06,479
+Mujer 1: Ah, tienes que estar bromeando.
+
+5
+00:00:06,470 --> 00:00:14,280
+[Inserta un riff aquí]
+

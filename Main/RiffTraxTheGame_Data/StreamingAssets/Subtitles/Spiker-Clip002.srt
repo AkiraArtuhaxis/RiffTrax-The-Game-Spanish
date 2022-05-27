@@ -1,0 +1,13 @@
+1
+00:00:00,604 --> 00:00:01,687
+Entrenador: ¿Dónde está Sunny?
+
+2
+00:00:02,104 --> 00:00:04,896
+Hombre: Eh, no se ha sentido muy bien.
+Su estómago no ha andado bien.
+
+3
+00:00:04,930 --> 00:00:10,460
+[Inserta un riff aquí]
+

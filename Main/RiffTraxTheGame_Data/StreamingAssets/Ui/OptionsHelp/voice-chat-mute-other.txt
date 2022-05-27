@@ -1,0 +1,1 @@
+Alternar si puedes o no escuchar a este jugador en el chat de voz.

@@ -1,0 +1,8 @@
+1
+00:00:01,104 --> 00:00:04,720
+Cantantes: (cantando) Frutas y verduras, ¡Cuatro raciones cada día!
+
+2
+00:00:04,720 --> 00:00:11,380
+[Inserta un riff aquí]
+

@@ -1,0 +1,1 @@
+Oculta el codigo de la sala por defecto.

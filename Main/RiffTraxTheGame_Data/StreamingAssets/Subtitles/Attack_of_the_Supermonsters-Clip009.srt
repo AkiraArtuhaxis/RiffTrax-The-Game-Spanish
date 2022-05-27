@@ -1,0 +1,12 @@
+1
+00:00:02,023 --> 00:00:04,442
+Hombre 1: Jim, apareció un nuevo tipo de monstruo.
+
+2
+00:00:04,692 --> 00:00:05,317
+Hombre 2: ¿Qué?
+
+3
+00:00:05,310 --> 00:00:11,760
+[Inserta un riff aquí]
+

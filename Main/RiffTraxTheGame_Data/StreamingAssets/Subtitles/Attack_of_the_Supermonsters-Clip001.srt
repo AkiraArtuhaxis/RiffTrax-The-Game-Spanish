@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,940
+(Perros ladrando)
+
+2
+00:00:02,940 --> 00:00:06,110
+Policía: Todos los perros de este sector se convirtieron en monstruos rojos.
+
+3
+00:00:06,110 --> 00:00:09,405
+No me digas que no es posible.
+Te digo que son monstruos.
+
+4
+00:00:09,400 --> 00:00:15,980
+[Inserta un riff aquí]
+

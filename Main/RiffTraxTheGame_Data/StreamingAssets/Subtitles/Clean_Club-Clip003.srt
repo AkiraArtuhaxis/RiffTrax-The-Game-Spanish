@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,606
+Monstruo: ¡Ayuda! Oigan, ¿qué es esta cosa horrible?
+
+2
+00:00:02,600 --> 00:00:16,540
+[Inserta un riff aquí]
+

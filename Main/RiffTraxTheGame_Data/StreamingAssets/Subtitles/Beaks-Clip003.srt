@@ -1,0 +1,12 @@
+1
+00:00:00,855 --> 00:00:03,024
+Piloto: ¡Auxilio! ¡Auxilio! ¡Auxilio!
+
+2
+00:00:03,024 --> 00:00:05,943
+¡Torre, tengo una colisión, no puedo controlar el avión!
+
+3
+00:00:05,940 --> 00:00:12,440
+[Inserta un riff aquí]
+

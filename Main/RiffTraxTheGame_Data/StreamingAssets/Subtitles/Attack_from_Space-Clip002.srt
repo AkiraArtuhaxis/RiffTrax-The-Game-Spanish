@@ -1,0 +1,16 @@
+1
+00:00:01,785 --> 00:00:02,986
+Hombre: ¿Puedo ayudarles?
+
+2
+00:00:03,580 --> 00:00:04,620
+Mujer: Sí, esto es lo que necesito.
+
+3
+00:00:04,620 --> 00:00:05,587
+Hombre: Ah, una lista.
+
+4
+00:00:06,000 --> 00:00:11,160
+[Inserta un riff aquí]
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,064
+Narrador: Justo antes de la hora de cierre,
+
+2
+00:00:02,189 --> 00:00:05,151
+encontrarás a Bob preparando la sala de embarque para la noche.
+
+3
+00:00:05,340 --> 00:00:15,260
+[Inserta un riff aquí]
+

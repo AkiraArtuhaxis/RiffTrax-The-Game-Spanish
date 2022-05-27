@@ -1,0 +1,12 @@
+1
+00:00:00,600 --> 00:00:02,060
+Hombre: ¿Qué quieres que haga?
+
+2
+00:00:02,180 --> 00:00:03,980
+¿Que sonría y mantenga los ojos cerrados?
+
+3
+00:00:04,190 --> 00:00:11,940
+[Inserta un riff aquí]
+

@@ -1,0 +1,1 @@
+Permite que un moderador apruebe o rechace los envios de riffs antes de que se reproduzcan en el modo Write-A-Riff.

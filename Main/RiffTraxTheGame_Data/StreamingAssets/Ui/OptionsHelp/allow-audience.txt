@@ -1,0 +1,1 @@
+Permite que los jugadores se unan al publico y voten por sus propuestas favoritas.

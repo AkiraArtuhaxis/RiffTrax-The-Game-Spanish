@@ -1,0 +1,8 @@
+1
+00:00:02,386 --> 00:00:03,887
+Rollergator: Oye, ¿qué hay en el vaso?
+
+2
+00:00:04,180 --> 00:00:10,620
+[Inserta un riff aquí]
+

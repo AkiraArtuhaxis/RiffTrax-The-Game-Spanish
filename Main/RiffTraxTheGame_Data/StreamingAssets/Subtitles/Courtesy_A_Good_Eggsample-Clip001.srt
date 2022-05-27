@@ -1,0 +1,12 @@
+1
+00:00:00,884 --> 00:00:03,153
+Mamá: ¡Que tengas un buen día en la escuela, Hueberto!
+
+2
+00:00:03,220 --> 00:00:04,721
+Hueberto: ¡Lo tendré, mamá!
+
+3
+00:00:05,000 --> 00:00:12,280
+[Inserta un riff aquí]
+

@@ -1,0 +1,16 @@
+1
+00:00:03,065 --> 00:00:05,000
+Mujer: ¿Me das un sándwich, por favor?
+
+2
+00:00:05,109 --> 00:00:06,861
+Hombre: ¿Pollo o salchicha de hígado?
+
+3
+00:00:06,902 --> 00:00:08,195
+Mujer: Pollo.
+
+4
+00:00:08,780 --> 00:00:17,540
+[Inserta un riff aquí]
+

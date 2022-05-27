@@ -1,0 +1,1 @@
+Alternar si los otros jugadores pueden o no oirte en el chat de voz.

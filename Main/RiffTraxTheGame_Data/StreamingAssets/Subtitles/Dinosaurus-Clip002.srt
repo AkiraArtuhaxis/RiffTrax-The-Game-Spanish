@@ -1,0 +1,8 @@
+1
+00:00:00,684 --> 00:00:02,652
+Hombre: Bueno, ¿qué pasó con los dinosaurios?
+
+2
+00:00:03,100 --> 00:00:12,920
+[Inserta un riff aquí]
+

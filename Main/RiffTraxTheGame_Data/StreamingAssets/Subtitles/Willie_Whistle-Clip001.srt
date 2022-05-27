@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,605
+(Sonido de silbato)
+
+2
+00:00:01,731 --> 00:00:05,985
+Silvio: Hola, soy Silvio Silbato con un importante mensaje sobre el cruce de calles.
+
+3
+00:00:06,180 --> 00:00:12,540
+[Inserta un riff aquí]
+

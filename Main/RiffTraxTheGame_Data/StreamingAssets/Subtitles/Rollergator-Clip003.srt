@@ -1,0 +1,8 @@
+1
+00:00:00,784 --> 00:00:02,419
+Rollergator: ¿Qué quieres hacer?
+
+2
+00:00:03,020 --> 00:00:08,020
+[Inserta un riff aquí]
+

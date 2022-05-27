@@ -1,0 +1,8 @@
+1
+00:00:01,272 --> 00:00:03,357
+Doctor: ¿No recuerdas dónde te hiciste esto?
+
+2
+00:00:03,357 --> 00:00:08,440
+[Inserta un riff aquí]
+

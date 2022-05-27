@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,647
+Hombre 1: Oh, aguanta, hombre.
+
+2
+00:00:03,524 --> 00:00:04,982
+Hombre 2: He estado leyendo sobre ti.
+
+3
+00:00:05,100 --> 00:00:15,100
+[Inserta un riff aquí]
+

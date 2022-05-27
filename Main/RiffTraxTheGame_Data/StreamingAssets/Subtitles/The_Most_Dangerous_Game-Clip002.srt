@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,397
+Hombre: Vamos a vencer a esta cosa.
+
+2
+00:00:01,439 --> 00:00:02,565
+Mujer: Los otros no pudieron.
+
+3
+00:00:02,690 --> 00:00:03,691
+Hombre: ¡Pero nosotros sí!
+
+4
+00:00:04,220 --> 00:00:09,220
+[Inserta un riff aquí]
+

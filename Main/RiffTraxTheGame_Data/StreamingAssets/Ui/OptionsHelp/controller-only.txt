@@ -1,0 +1,1 @@
+Impide que un jugador inicie el juego en el sitio web complementario.

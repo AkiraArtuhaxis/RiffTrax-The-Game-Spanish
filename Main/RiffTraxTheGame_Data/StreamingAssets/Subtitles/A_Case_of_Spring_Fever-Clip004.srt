@@ -1,0 +1,16 @@
+1
+00:00:02,273 --> 00:00:03,399
+Hombre: Verán, amigos,
+
+2
+00:00:03,399 --> 00:00:06,652
+el principio científico de un resorte es absorber energía,
+
+3
+00:00:06,652 --> 00:00:09,238
+y luego liberarla. Eso es todo.
+
+4
+00:00:09,230 --> 00:00:18,220
+[Inserta un riff aquí]
+

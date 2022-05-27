@@ -1,0 +1,1 @@
+Permite conexiones remotas desde otras copias de RiffTrax: The Game.
