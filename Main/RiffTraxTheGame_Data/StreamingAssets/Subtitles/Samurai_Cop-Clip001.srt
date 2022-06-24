@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,106
+Enfermera: ¿Te gusta lo que ves?
+
+2
+00:00:03,024 --> 00:00:04,608
+Policía samurái: Me encanta lo que veo.
+
+3
+00:00:04,942 --> 00:00:07,153
+Enfermera: ¿Te gustaría tocar lo que ves?
+
+4
+00:00:07,480 --> 00:00:14,240
+[Inserta un riff aquí]
+

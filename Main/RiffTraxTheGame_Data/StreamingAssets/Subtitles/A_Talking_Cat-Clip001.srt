@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,400
+Chica: ¿Siempre huele a waffles?
+
+2
+00:00:01,400 --> 00:00:02,565
+Chico: Eh, no.
+
+3
+00:00:02,560 --> 00:00:04,620
+Chico: Eh, sígueme, vamos a salir.
+
+4
+00:00:04,620 --> 00:00:05,401
+Chica: Bueno.
+
+5
+00:00:05,400 --> 00:00:13,480
+[Inserta un riff aquí]
+

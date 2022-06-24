@@ -1,0 +1,12 @@
+1
+00:00:00,730 --> 00:00:04,191
+Narrador: Estamos moviendo la pelota en sentido horario.
+
+2
+00:00:05,317 --> 00:00:07,820
+Narrador: En sentido horario alrededor del cuerpo.
+
+3
+00:00:07,820 --> 00:00:14,700
+[Inserta un riff aquí]
+

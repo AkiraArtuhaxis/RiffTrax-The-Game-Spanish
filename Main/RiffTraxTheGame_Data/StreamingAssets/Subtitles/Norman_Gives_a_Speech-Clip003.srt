@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,816
+Hombre: ¡Probando! Uno, dos, tres.
+
+2
+00:00:03,816 --> 00:00:06,861
+Probando. ¡Norton!
+
+3
+00:00:06,860 --> 00:00:14,760
+[Inserta un riff aquí]
+

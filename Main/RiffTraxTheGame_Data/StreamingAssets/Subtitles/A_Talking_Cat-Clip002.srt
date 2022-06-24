@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,690
+Hombre: Oye, parece que tienes hambre.
+
+2
+00:00:02,690 --> 00:00:04,483
+¿Quieres que te busque algo para comer?
+
+3
+00:00:05,200 --> 00:00:06,860
+Gato: Vaya, soy bueno.
+
+4
+00:00:06,861 --> 00:00:08,362
+Seguro, amigo, comamos.
+
+5
+00:00:08,360 --> 00:00:15,120
+[Inserta un riff aquí]
+

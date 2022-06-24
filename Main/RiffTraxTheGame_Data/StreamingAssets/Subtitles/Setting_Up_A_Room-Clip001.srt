@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,605
+Profesora 1: ¿Te fijaste en nuestro lavaplatos?
+
+2
+00:00:01,600 --> 00:00:03,480
+Profesora 2: Oh, está bien tener un lavaplatos en la habitación.
+
+3
+00:00:03,480 --> 00:00:04,191
+Profesora 1: Sí.
+
+4
+00:00:04,320 --> 00:00:12,940
+[Inserta un riff aquí]
+
