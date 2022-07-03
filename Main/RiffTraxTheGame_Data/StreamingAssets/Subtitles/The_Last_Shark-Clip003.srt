@@ -4,7 +4,7 @@ Alcalde: Sr. Lodes,
 
 2
 00:00:02,815 --> 00:00:04,815
-¿cuántos barcos cree que necesitaremos?
+¿cuántos botes cree que necesitaremos?
 
 3
 00:00:05,020 --> 00:00:15,260

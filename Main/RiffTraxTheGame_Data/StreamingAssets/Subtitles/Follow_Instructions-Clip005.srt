@@ -4,7 +4,7 @@ Mujer: Esta cantidad.
 
 2
 00:00:01,814 --> 00:00:04,692
-Aliméntalo esta cantidad una vez al día.
+Come esta cantidad una vez al día.
 
 3
 00:00:05,120 --> 00:00:09,340
