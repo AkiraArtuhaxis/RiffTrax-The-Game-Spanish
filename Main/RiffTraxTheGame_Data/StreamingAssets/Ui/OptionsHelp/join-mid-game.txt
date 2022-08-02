@@ -1,0 +1,1 @@
+Permite a los jugadores unirse a una partida luego de que haya empezado.
