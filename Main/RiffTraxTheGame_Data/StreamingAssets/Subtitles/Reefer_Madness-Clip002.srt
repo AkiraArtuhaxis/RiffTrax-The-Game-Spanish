@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,520
+Chica: ¡Vamos, Jimmy, toca algo caliente!
+
+2
+00:00:02,520 --> 00:00:03,480
+Jimmy: ¡Bueno!
+
+3
+00:00:08,690 --> 00:00:15,220
+[Inserta un riff aquí]
+

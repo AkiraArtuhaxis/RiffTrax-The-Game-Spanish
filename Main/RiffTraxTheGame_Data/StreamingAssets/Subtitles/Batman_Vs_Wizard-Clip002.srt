@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,273
+Policía: Bueno, Batman, parece que nuestros problemas terminaron.
+
+2
+00:00:02,270 --> 00:00:03,800
+Batman: Hay algo mal aquí.
+
+3
+00:00:03,800 --> 00:00:06,600
+El Mago es demasiado inteligente para acabar así.
+
+4
+00:00:06,600 --> 00:00:17,280
+[Inserta un riff aquí]
+

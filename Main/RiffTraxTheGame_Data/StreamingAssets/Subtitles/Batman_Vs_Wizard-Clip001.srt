@@ -1,0 +1,24 @@
+1
+00:00:01,981 --> 00:00:03,774
+Batman: ¿Viste a alguien entrar en esta oficina?
+
+2
+00:00:03,774 --> 00:00:06,277
+Guardia: No, señor, pero algo me golpeó y me derribó.
+
+3
+00:00:06,277 --> 00:00:07,611
+Batman: ¿Te refieres a la fuerza de la explosión?
+
+4
+00:00:07,611 --> 00:00:09,196
+Guardia: No, señor, fue antes de eso.
+
+5
+00:00:09,196 --> 00:00:10,865
+Batman: Busquemos al comisario Gordon.
+
+6
+00:00:10,860 --> 00:00:16,340
+[Inserta un riff aquí]
+

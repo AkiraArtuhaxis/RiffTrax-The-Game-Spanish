@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:01,939
+Chico: Oye, no es un hombre de papel.
+
+2
+00:00:01,939 --> 00:00:04,066
+Chica: Espera, ¿no lo conoces? ¡Es Pirelli Dedos Calientes!
+
+3
+00:00:04,066 --> 00:00:06,485
+Chico: ¡De verdad se balancea sin problemas en el baile!
+
+4
+00:00:06,480 --> 00:00:07,220
+Chico: ¿Quieres bailar?
+
+5
+00:00:07,220 --> 00:00:08,070
+Chica: ¡Claro!
+
+6
+00:00:08,070 --> 00:00:16,220
+[Inserta un riff aquí]
+

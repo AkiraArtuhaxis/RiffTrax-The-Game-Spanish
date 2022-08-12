@@ -1,0 +1,8 @@
+1
+00:00:03,399 --> 00:00:05,317
+Hombre: ¡Las águilas mataron a Becky!
+
+2
+00:00:05,310 --> 00:00:14,160
+[Inserta un riff aquí]
+

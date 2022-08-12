@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,858
+Robot: Eso es imposible... no se puede hacer.
+
+2
+00:00:03,858 --> 00:00:06,902
+¿Y si... y si no cumples?
+
+3
+00:00:06,902 --> 00:00:08,904
+Científico: Entonces tú serías el jefe del proyecto.
+
+4
+00:00:08,900 --> 00:00:20,700
+[Inserta un riff aquí]
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,398
+Mujer 1: Oh, vaya, ¿es una huella de oso?
+
+2
+00:00:02,398 --> 00:00:04,390
+Mujer 2: No, es demasiado grande.
+
+3
+00:00:05,109 --> 00:00:06,402
+Casi se parece a...
+
+4
+00:00:06,402 --> 00:00:05,109
+Mujer 1: ¿Pie Grande?
+
+5
+00:00:07,400 --> 00:00:17,200
+[Inserta un riff aquí]
+
