@@ -1,1 +1,3 @@
 Elige si se requiere o no que los jugadores se conecten con Twitch antes de entrar en el juego.
+
+Nota: Este ajuste no se aplica a las partidas publicas.

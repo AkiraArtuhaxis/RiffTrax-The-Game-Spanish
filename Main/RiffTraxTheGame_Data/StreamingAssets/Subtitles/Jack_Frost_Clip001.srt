@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,564
+Sam: Marla. ¡Marla! ¡No toques eso!
+
+2
+00:00:01,564 --> 00:00:05,860
+Marla: ¿Cuál es el problema, Sam? Es solo una bufanda.
+
+3
+00:00:05,900 --> 00:00:15,860
+[Inserta un riff aquí]
+

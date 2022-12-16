@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,271
+Coro: Golpecito, golpe, golpe, Golpecito, golpe, golpe...
+
+2
+00:00:02,312 --> 00:00:04,229
+Niño: ¡Está tan vivo como puede estarlo!
+
+3
+00:00:04,220 --> 00:00:15,900
+[Inserta un riff aquí]
+

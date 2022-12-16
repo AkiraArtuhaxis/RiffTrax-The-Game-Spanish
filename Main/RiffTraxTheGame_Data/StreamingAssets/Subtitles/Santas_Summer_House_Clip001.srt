@@ -1,0 +1,16 @@
+1
+00:00:00,896 --> 00:00:01,731
+Andy: ¡Oye, Molly!
+
+2
+00:00:01,897 --> 00:00:03,524
+¿Quieres ir a nadar en el jacuzzi?
+
+3
+00:00:03,524 --> 00:00:05,151
+Molly: No, gracias, Andy. Tal vez más tarde.
+
+4
+00:00:05,190 --> 00:00:14,940
+[Inserta un riff aquí]
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,937
+Marioneta en el pato: Ja ja ja ja ja ja
+
+2
+00:00:01,937 --> 00:00:03,479
+¿Quieres comprar un pato?
+
+3
+00:00:03,470 --> 00:00:11,440
+[Inserta un riff aquí]
+

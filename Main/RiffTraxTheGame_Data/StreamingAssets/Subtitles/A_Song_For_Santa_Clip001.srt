@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,271
+Papá Noel: ¿Y qué quieres?
+
+2
+00:00:01,271 --> 00:00:03,396
+Niño: Papá Noel, te traje una canción nueva.
+
+3
+00:00:04,521 --> 00:00:05,896
+Papá Noel: ¿Una canción nueva?
+
+4
+00:00:05,890 --> 00:00:18,480
+[Inserta un riff aquí]
+

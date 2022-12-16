@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,104
+Banquero: Todo empieza cuando la gente deposita
+
+2
+00:00:03,104 --> 00:00:05,187
+su dinero en el banco.
+
+3
+00:00:05,220 --> 00:00:14,960
+[Inserta un riff aquí]
+
