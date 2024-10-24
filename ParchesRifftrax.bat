@@ -1,7 +1,9 @@
 @ECHO OFF
 
 :: Hacer versión Mac Steam en RTTG-ES-MAC.zip
-cd "Main/RiffTraxTheGame_Data"
+cd "Main"
+COPY "config.dat" "RiffTraxTheGame_Data"
+cd "RiffTraxTheGame_Data"
 RD "Managed" /q /s
 DEL "sharedassets0.assets"
 :: Poner cosas que pasar en repositorio
@@ -12,6 +14,7 @@ xcopy "Cosas que pasar" "RiffTrax-The-Game-Spanish/Main" /s /y
 cd "RiffTrax-The-Game-Spanish/Main/RiffTraxTheGame_Data"
 "%ProgramFiles%\WinRAR\WinRAR.exe" a -afzip -ibck -r -y "../../../../../Zips/RTTG-ES-MAC.zip" "."
 :: Hacer versión Steam en RTTG-ES.zip
+DEL "config.dat"
 cd ..
 cd ..
 xcopy "ArchivosWindows" "Main" /s /y
