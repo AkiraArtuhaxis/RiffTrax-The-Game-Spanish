@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,000
+Princesa sirena: La ceremonia de la boda se ha acabado.
+
+2
+00:00:03,238 --> 00:00:05,238
+Pronto amanecerá,
+
+3
+00:00:05,262 --> 00:00:07,862
+el primer rayo de sol traerá mi muerte.
+
+4
+00:00:07,880 --> 00:00:14,320
+[Inserta un riff aquí]
+

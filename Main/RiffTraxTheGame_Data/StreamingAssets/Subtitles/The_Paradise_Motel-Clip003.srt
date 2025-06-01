@@ -1,0 +1,20 @@
+1
+00:00:00,500 --> 00:00:01,300
+Raymond: Hola.
+
+2
+00:00:01,324 --> 00:00:02,324
+Nikki: Hola.
+
+3
+00:00:02,348 --> 00:00:04,348
+Busco habitación para pasar la noche.
+
+4
+00:00:05,265 --> 00:00:08,217
+Una aislada sería genial.
+
+5
+00:00:08,240 --> 00:00:13,542
+[Inserta un riff aquí]
+

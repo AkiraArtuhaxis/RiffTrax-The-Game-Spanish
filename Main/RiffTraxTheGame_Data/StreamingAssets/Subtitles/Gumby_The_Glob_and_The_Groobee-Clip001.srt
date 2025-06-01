@@ -1,0 +1,12 @@
+1
+00:00:00,588 --> 00:00:02,588
+Gumby: ¡Ser escultor es divertido!
+
+2
+00:00:02,612 --> 00:00:04,612
+Está lleno de sorpresas.
+
+3
+00:00:06,610 --> 00:00:09,714
+[Inserta un riff aquí]
+

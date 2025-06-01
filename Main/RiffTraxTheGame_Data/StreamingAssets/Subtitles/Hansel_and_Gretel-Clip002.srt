@@ -1,0 +1,16 @@
+1
+00:00:00,500 --> 00:00:02,990
+Gretel: ¡Por favor, no cocines a mi hermano!
+
+2
+00:00:03,014 --> 00:00:06,798
+Bruja: No, querida, yo no lo cocinaré.
+
+3
+00:00:06,822 --> 00:00:09,822
+¡Tú sí! Ve a encender el horno.
+
+4
+00:00:09,840 --> 00:00:14,834
+[Inserta un riff aquí]
+

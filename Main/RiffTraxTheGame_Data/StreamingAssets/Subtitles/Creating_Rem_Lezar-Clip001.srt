@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,702
+Zack: ¿Tiene hijos?
+
+2
+00:00:02,740 --> 00:00:06,006
+Director: Me gusta pensar que todos los alumnos de la escuela son mis hijos.
+
+3
+00:00:06,670 --> 00:00:13,245
+[Inserta un riff aquí]
+

@@ -1,0 +1,16 @@
+1
+00:00:00,200 --> 00:00:01,800
+Príncipe: ¿No quieres hablarme?
+
+2
+00:00:02,917 --> 00:00:03,917
+¿Eres tímida?
+
+3
+00:00:03,941 --> 00:00:05,941
+No tengas miedo. Nunca te lastimaría.
+
+4
+00:00:05,960 --> 00:00:10,960
+[Inserta un riff aquí]
+

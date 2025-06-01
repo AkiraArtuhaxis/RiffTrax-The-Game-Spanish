@@ -1,0 +1,16 @@
+1
+00:00:01,000 --> 00:00:02,000
+Niñita: ¿Qué pasa?
+
+2
+00:00:02,024 --> 00:00:03,424
+RoboCop: Tengo que irme,
+
+3
+00:00:03,448 --> 00:00:05,448
+en algún lugar se está cometiendo un delito.
+
+4
+00:00:05,470 --> 00:00:10,560
+[Inserta un riff aquí]
+
