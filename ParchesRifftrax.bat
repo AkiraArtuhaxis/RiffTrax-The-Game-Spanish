@@ -1,13 +1,10 @@
 @ECHO OFF
 
 :: Hacer versión Mac Steam en RTTG-ES-MAC.zip
+xcopy "ArchivosMac" "Main" /s /y
 cd "Main"
 COPY "config.dat" "RiffTraxTheGame_Data"
-cd "RiffTraxTheGame_Data"
-RD "Managed" /q /s
-DEL "sharedassets0.assets"
 :: Poner cosas que pasar en repositorio
-cd ..
 cd ..
 cd ..
 xcopy "Cosas que pasar" "RiffTrax-The-Game-Spanish/Main" /s /y
